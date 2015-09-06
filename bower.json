@@ -1,0 +1,33 @@
+{
+  "name": "ng-amd-es6-babel",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "components/jquery#~2.1.4",
+    "angular": "angular#~1.4.4",
+    "angular-sanitize": "angular-sanitize#~1.4.4",
+    "bootstrap": "~3.3.5",
+    "angular-ui-router": "~0.2.15",
+    "components-font-awesome": "~4.4",
+    "angular-bootstrap": "~0.13.3",
+    "angular-scroll-animate": "^0.9.1",
+    "ngDialog": "~0.5.0",
+    "word-replace": "~0.0.1",
+    "requirejs": "latest"
+  },
+  "description": "Front End package management for enterprise level angular project",
+  "keywords": [
+    "front",
+    "end"
+  ],
+  "authors": [
+    "pk"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
