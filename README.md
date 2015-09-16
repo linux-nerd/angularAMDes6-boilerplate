@@ -1,4 +1,4 @@
-# Boilerplate - AngularAMD + UI Router + Bootstrap
+# Boilerplate - AngularAMD + UI Router + Bootstrap + es6 + babeljs
 
 ## Installation
 Download the folder, and you are good to go.
