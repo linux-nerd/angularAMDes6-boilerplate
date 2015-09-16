@@ -8,6 +8,7 @@ Download the folder, and you are good to go.
 * bower install
 * cd appContent
 * node server.js
+* grunt
 
 ## Reference
 * [angularAMD](https://github.com/marcoslin/angularAMD/ "angularAMD")
